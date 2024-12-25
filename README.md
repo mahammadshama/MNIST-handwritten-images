@@ -133,9 +133,3 @@ This project is licensed under the MIT License.
 
 
 ---
-
-Acknowledgements
-
-MNIST dataset: Yann LeCun's Website
-
-Tutorials and resources that guided the project.
